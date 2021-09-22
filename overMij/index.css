@@ -1,3 +1,25 @@
 Body {
     background-color: #bb4343;
 }
+
+p {
+    color: rgb(231, 190, 190);
+    font-size: 17px;
+}
+
+h1 {
+    color:rgb(255, 208, 0)
+}
+
+h2 {
+    color: rgb(255, 208, 0);
+}
+
+li{
+    color:rgb(231, 190, 190);
+}
+
+a {
+    color:rgb(231, 190, 190)
+    font-size: 18px;
+}
