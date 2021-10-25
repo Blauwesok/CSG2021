@@ -4,14 +4,14 @@ html, body {
 }
 
 body {
-    background: #5d524c;
-    color: #c8c3bf;
+    background: #e42323;
+    color: #ffffff;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     size: 14px;
     padding-left: 10%;
 }
 
-#vogel {
-    width: 225px;
+#Supreme {
+    width: 300px;
     height: auto;
 }
