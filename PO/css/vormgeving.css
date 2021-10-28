@@ -5,7 +5,7 @@ html, body {
 
 body {
     background: #e42323;
-    color: #ffffff;
+    color: #000000;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     resize: 14px;
     padding-left: 10%;
@@ -47,8 +47,30 @@ a:hover, li:hover {
     font-variant: small-caps;
 }
 
-#bape {
-    width: auto;
-    height: auto;
-    margin-left: auto;
+.supreme{
+    color: black;
+    padding: 30px 20px 10 px 20px;
+    border: solid 1px;
+}
+.bape{
+    color: black;
+    padding: 30px 20px 10px 20px;
+    border: solid 1px;
+}
+.nike{
+    color: black;
+    padding: 30px 20px 10 px 20px;
+    border: solid 1px;
+}
+.background1{
+    background-color: #ffffff;
+}
+.horizontaal3{
+    background-color: #ffffff;
+    margin-left: 30px 20px
+}
+
+.head {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    resize: 14px;
 }
