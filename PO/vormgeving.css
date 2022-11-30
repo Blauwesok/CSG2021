@@ -1,3 +1,4 @@
+
 #menu {
 	background: #CCCCCC;
 	color: #FFF;
@@ -8,7 +9,7 @@
 #menu ul, #menu li {
 	margin: 0 auto;
 	padding: 0;
-	list-style: none
+	list-style: none;
 }
 #menu ul {
 	width: 100%;
@@ -42,7 +43,7 @@
 	height: 52px;
 	width: 100%;
 	opacity: 0;
-	cursor: pointer
+	cursor: pointer;
 }
 #menu label {
 	display: none;
@@ -75,7 +76,7 @@
 	text-transform: capitalize;
 }
 #menu li:hover ul.sub-menus {
-	display: block
+	display: block;
 }
 #menu ul.sub-menus a:hover{
 	background: #F2F2F2;
@@ -92,4 +93,9 @@
 	#menu input:checked + label {color:white}
 	#menu input:checked + label:before {content:"\00d7"}
 	#menu input:checked ~ ul {display:block}
+}
+
+.product{
+	border: 5px grey ridge;
+	margin: auto;
 }
